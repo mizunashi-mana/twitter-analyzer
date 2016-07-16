@@ -1,0 +1,6 @@
+/dist/
+
+# for NPM
+node_modules/
+npm-*.log
+
